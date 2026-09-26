@@ -1,18 +1,20 @@
-# 🚀 Mi Camino en la Programación
+# 🚀 Al infinito y mas allá, Beatches!
 
-¡Hola! Soy estudiante y actualmente estoy aprendiendo programación mientras lo combino con mi trabajo. Este repositorio es mi bitácora para documentar mi progreso de forma práctica.
+Hola! Siempre es bueno encontrar nuevos interesses y metas, asi que decidi empzar este curso de Programacion de aplicaciones moviles. Este repositorio es mi bitácora para documentar mi progreso de forma práctica.
 
 ## 📚 Lo que estoy aprendiendo
-- 💻 **Lenguajes:** [Ej. Kotlin, Python, JavaScript]
-- 🛠️ **Herramientas:** [Ej. Android Studio, Git, VS Code]
-- 🎯 **Meta actual:** [Ej. Terminar el módulo de bases de datos]
+- 💻 **Lenguajes:** [Ej. Kotlin, Java, Swift]
+- 🛠️ **Herramientas:** [Ej. Android Studio, XCODE]
+- 🎯 **Meta actual:** [Aprender y desrrollar nuevas habilidades que me permitan ampliar mi campo profesional]
 
 ## 📁 Mis Proyectos Destacados
 
-### 1. [Nombre del Proyecto 1]
-- **¿Qué es?:** [Ej. Una calculadora de presupuestos para Android]
-- **Lo que aprendí:** [Ej. A usar variables, bucles y lógica básica]
+### 1. [Reto 1]
+- **¿Qué es?:** [Investigacion]
+- **Lo que aprendí:** [HERRAMIENTAS, LENGUAJES]
 - **Ver el código:** Haz clic en la carpeta `[NombreDeTuCarpeta]` arriba.
 
 ---
-📫 *Mantén el contacto: [Tu LinkedIn o correo]*
+📫 *Mantén el contacto: [www.linkedin.com/in/marcos-hanke
+
+]*
